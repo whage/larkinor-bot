@@ -2,8 +2,8 @@
 
 set -euo pipefail
 
-time=23937
-key=tY2ZyXyR43QVC
+time=29026
+key=JbQHDz8CxC2zD
 
 while :
 do
@@ -20,5 +20,5 @@ do
 		-d "oldalTipus=otKocsma&loginname=zokniur&kulcs=${key}&idopont=${time}&Submit=svFizetBor&par1=&par2=&par3=" \
 		http://l1.larkinor.hu/cgi-bin/larkinor)
 
-	echo "$response" | grep -a -i "bort a pult" 2>&1 >> /tmp/inn.log
+	echo "$response" | grep -a -i "bort a pult" 2>&1 >> ./inn.log
 done
