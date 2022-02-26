@@ -2,8 +2,8 @@
 
 set -euo pipefail
 
-time=32030
-key=w7dCnplWWDaRT
+time=98013
+key=A0nc0pULOIAJj
 
 while :
 do
