@@ -13,3 +13,13 @@ Majomkenyér:
 20000 éves kenyér
 9 kenyérhéj: 9 * 133.332 = 1.199.988
 16 eledel: 16 * 680.000 = 10.880.000
+
+# items
+- DRACOSTEEL HAMMER http://larkinorguide.com/cgi-bin/item.cgi?act=one&iid=293
+	- csőrdémon
+	- nannysnail
+- DRACOSTEEL AXE http://larkinorguide.com/cgi-bin/item.cgi?act=one&iid=283
+	- njukug
+	- nannysnail
+- DRACOSTEEL HARPOON http://larkinorguide.com/cgi-bin/item.cgi?act=one&iid=294
+	- 
